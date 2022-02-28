@@ -1,6 +1,7 @@
 {
   "title": "Working with 11ty",
-  "url": "https://example.com/",
+  "url": "https://taylormorini.github.io/11ty-Lab-1-/",
+
   "language": "en",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
@@ -14,8 +15,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Taylor Morini",
+    "email": "morinitaylor0@gmail.com",
+    "url": "https://taylormorini.github.io/11ty-Lab-1-/"
   }
 }
